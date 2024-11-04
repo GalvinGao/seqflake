@@ -1,3 +1,3 @@
-module github.com/bwmarrin/snowflake
+module github.com/GalvinGao/seqflake
 
 go 1.16
